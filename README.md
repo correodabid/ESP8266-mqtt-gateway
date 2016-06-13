@@ -30,6 +30,8 @@ http://192.168.4.1/setgps?lat=your_latitude&lon=your_longitude
 
 LIBERiot's MQTT broker address is mqtt.liberiot.org. Packets transmitted to this broker have to comply with the packet structure defined by the GWAP protocol.
 
+You can also use our application for Android. You can find it [here](http://liberiot.org/files/APK/liberiot.apk).
+
 ## Links
 
 * [panStamp NRG - Wiki page](https://github.com/panStamp/panstamp/wiki/panStamp%20NRG%202.-Technical%20details)
